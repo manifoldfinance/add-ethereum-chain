@@ -12,7 +12,7 @@
   },
   "keywords": ["ethereum", "metamask", "web3", "json rpc"],
   "author": "SEE CONTRIBUTORS",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/manifoldfinance/add-ethereum-chain/issues"
   },
