@@ -1,0 +1,20 @@
+{
+  "name": "add-ethereum-chain",
+  "version": "1.0.0",
+  "description": "library for drop-in custom rpc support for any conformant evm-based blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manifoldfinance/add-ethereum-chain.git"
+  },
+  "keywords": ["ethereum", "metamask", "web3", "json rpc"],
+  "author": "SEE CONTRIBUTORS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manifoldfinance/add-ethereum-chain/issues"
+  },
+  "homepage": "https://github.com/manifoldfinance/add-ethereum-chain#readme"
+}
